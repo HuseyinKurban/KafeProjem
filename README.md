@@ -11,5 +11,5 @@ Kahve Kafe projemiz, ASP.NET ve HTML kullanarak geliştirilmiş bir web uygulama
 
 ## Teknolojiler
 - **ASP.NET:** Dinamik web sayfaları oluşturmak için kullanıldı.
-- **HTML/CSS:** Sayfa tasarımı ve stil için kullanıldı.
-- **C#:** Sunucu tarafında işlem yapmak için kullanıldı.
+- **HTML:** Sayfa tasarımı için kullanıldı.
+
