@@ -13,6 +13,8 @@ Kahve Kafe projemiz, ASP.NET ve HTML kullanarak geliştirilmiş bir web uygulama
 - **ASP.NET:** Dinamik web sayfaları oluşturmak için kullanıldı.
 - **HTML:** Sayfa tasarımı için kullanıldı.
 
-![image](https://github.com/user-attachments/assets/795aea29-0c30-45cd-918f-1136c122b6f3)
-![image](https://github.com/user-attachments/assets/b363a65a-8c95-4170-936e-89535c3bf008)
+![image](https://github.com/user-attachments/assets/4fe9189c-c476-4291-965a-4766533f9308)
+![image](https://github.com/user-attachments/assets/06c7e995-a7c6-41af-a0e8-a3268acebb73)
+
+
 
